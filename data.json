@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "password": "pkpk",
+      "name": "draven",
+      "avater": "/assets/img/avater/10.svg",
+      "email": "jspankai@vip.qq.com",
+      "id": "14416520",
+      "projectIds": [
+        "Sk2HaTagb",
+        "HyalmoGb"
+      ]
+    },
+    {
+      "password": "lisi",
+      "name": "李四",
+      "avater": "/assets/img/avater/12.svg",
+      "email": "lisi@qq.com",
+      "id": "14416521",
+      "projectIds": [
+        "Sk2HaTagb"
+      ]
+    },
+    {
+      "password": "zhangsan",
+      "name": "zhangsan",
+      "avater": "/assets/img/avater/11.svg",
+      "email": "jspankai@vip.qq.com",
+      "id": "1asdfasd20",
+      "projectIds": [
+        "Sk2HaTagb",
+        "HyalmoGb"
+      ]
+    },
+    {
+      "password": "zhangsan",
+      "name": "zhangsan",
+      "avater": "/assets/img/avater/11.svg",
+      "email": "13412341@qq.com",
+      "projectIds": [
+        "Sk2HaTagb",
+        "HyalmoGb"
+      ],
+      "id": "SJcf9B4UW"
+    },
+    {
+      "username": "test",
+      "password": "test1234",
+      "id": "ryH1prNIW"
+    }
+  ],
+  "projects": [
+    {
+      "id": "asdfasdfas",
+      "name": "问题跟踪系统",
+      "desc": "用于bug的内部跟踪和管理",
+      "coverImg": "/assets/img/covers/1.jpg",
+      "members": [
+        "asdfasdfasdfq2sddfasd"
+      ]
+    },
+    {
+      "name": "某某公司 ERP 系统",
+      "desc": "为某某公司开发的定制化 ERP 系统",
+      "coverImg": "/assets/img/covers/20.jpg",
+      "members": [
+        "asdfasasdfasdf21asdf12asd"
+      ]
+    }
+  ]
+}
