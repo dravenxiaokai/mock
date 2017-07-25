@@ -5,7 +5,8 @@ npm i -g json-server
 
 json-server ./data.json
 
-Home:http://localhost:3000/
+Host:localhost
+Port:3000
 
 #1:
 使用postman测试常用的API，有图形化界面
